@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Piero Vélez — Ideas, code, and people.</title>
+  <desc id="desc">Ocean green and sand-colored banner with waves inspired by the Peruvian coast.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#122e31"/><stop offset="1" stop-color="#0c2028"/></linearGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#71baa6" stop-opacity="0.12"/><stop offset="0.6" stop-color="#8bd3b8"/><stop offset="1" stop-color="#d5b982"/></linearGradient>
+    <clipPath id="bounds"><rect width="1200" height="340" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#bounds)">
+    <rect width="1200" height="340" fill="url(#bg)"/>
+    <path d="M0 339H1200" stroke="#8bd3b8" stroke-width="3"/>
+    <g fill="none" stroke="#83bbae" stroke-opacity="0.1">
+      <circle cx="1020" cy="176" r="183"/><circle cx="1020" cy="176" r="141"/><circle cx="1020" cy="176" r="99"/>
+      <path d="M720 0V340M780 0V340M840 0V340M900 0V340M960 0V340M1020 0V340M1080 0V340M1140 0V340M700 56H1200M700 116H1200M700 176H1200M700 236H1200M700 296H1200"/>
+    </g>
+    <g fill="none" stroke="url(#wave)" stroke-width="1.7">
+      <path d="M746 246C799 246 793 90 854 90S900 264 958 264 1011 100 1067 100 1124 217 1200 217"/>
+      <path d="M746 233C799 233 793 104 854 104S900 249 958 249 1011 113 1067 113 1124 206 1200 206"/>
+      <path d="M746 220C799 220 793 118 854 118S900 234 958 234 1011 126 1067 126 1124 195 1200 195"/>
+      <path d="M746 207C799 207 793 132 854 132S900 219 958 219 1011 139 1067 139 1124 184 1200 184"/>
+      <path d="M746 194C799 194 793 146 854 146S900 204 958 204 1011 152 1067 152 1124 173 1200 173"/>
+      <path d="M746 181C799 181 793 160 854 160S900 189 958 189 1011 165 1067 165 1124 162 1200 162"/>
+    </g>
+    <circle cx="854" cy="90" r="5" fill="#8bd3b8"/><circle cx="958" cy="264" r="5" fill="#d5b982"/><circle cx="1067" cy="100" r="5" fill="#8bd3b8"/>
+    <g font-family="Segoe UI, Arial, sans-serif">
+      <rect x="56" y="43" width="27" height="3" rx="1.5" fill="#8bd3b8"/>
+      <text x="96" y="50" font-size="14" letter-spacing="2.8" fill="#b5d2c9">ENGINEERING · SOFTWARE · CURIOSITY</text>
+      <text x="52" y="158" font-size="76" font-weight="650" letter-spacing="-3" fill="#f4f0e7">Piero Vélez<tspan fill="#d5b982">.</tspan></text>
+      <text x="57" y="203" font-size="25" fill="#c5d8d0">Ideas, code, and people.</text>
+      <path d="M57 246H668" stroke="#809e96" stroke-opacity="0.3"/>
+      <text x="57" y="283" font-size="14" letter-spacing="2.2" fill="#a7c5bb">CHICLAYO, PERU</text>
+      <text x="668" y="283" text-anchor="end" font-size="14" fill="#d5b982">Learning by building.</text>
+    </g>
+  </g>
+</svg>
