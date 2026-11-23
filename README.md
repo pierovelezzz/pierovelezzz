@@ -1,40 +1,73 @@
-# Hola, soy Piero Vélez
+<p align="center">
+  <img src="profile-banner.svg" alt="Piero Vélez. Entre ideas, código y personas. Estudiante de ingeniería en Chiclayo, Perú." width="100%" />
+</p>
 
-### Ingeniería de Sistemas y Computación · Backend · Tecnología con impacto
+<p align="center">
+  <a href="https://www.linkedin.com/in/piero-v%C3%A9lez-su%C3%A1rez-36a2a6291/">Conversemos en LinkedIn ↗</a>
+  &nbsp; · &nbsp;
+  <a href="#proyectos">Ver proyectos ↓</a>
+</p>
 
-Estudio en la **Universidad Católica Santo Toribio de Mogrovejo (USAT)**, en Chiclayo, Perú. Me interesa convertir problemas reales en soluciones de software, combinando programación, diseño de producto y trabajo en equipo.
+Soy Piero, estudiante de **Ingeniería de Sistemas y Computación en la USAT**, en Chiclayo. Me interesa crear herramientas para aprender, explorar datos y resolver problemas cercanos. En las hackathons he encontrado una buena forma de hacerlo: trabajar con otras personas, probar ideas y ver qué podemos construir juntos.
 
-Mi formación se enfoca en **Java, Python y SQL**. Busco oportunidades de prácticas y colaboración donde pueda seguir aprendiendo, aportar a un equipo y construir software útil.
+Estoy enfocando mi formación en **desarrollo backend con Java, Python y SQL**. Quiero entender bien lo que construyo, desde la base de datos hasta la experiencia de quien lo usa.
 
-[LinkedIn](https://www.linkedin.com/in/piero-v%C3%A9lez-su%C3%A1rez-36a2a6291/) · [Mis repositorios](https://github.com/pierovelezzz?tab=repositories)
+## Proyectos
 
----
+Dos proyectos en equipo que cuentan un poco de ese camino. Puedes abrirlos y probarlos.
 
-## Proyectos que puedes explorar
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://earthrhythm-nasa.vercel.app/"><img src="earthrhythm.jpg" alt="EarthRhythm: El Pacífico, hecho música. Captura real de la aplicación con un mapa NASA." width="100%" /></a>
+<h3>EarthRhythm</h3>
+<p><sub>DATOS · MÚSICA · ACCESIBILIDAD</sub></p>
+<p>¿Cómo sonaría un mapa del océano? Convertimos sus colores en música para explorar el Pacífico de otra manera.</p>
+<p>Desarrollado para <strong>NASA Space Apps 2026</strong>.</p>
+<p><a href="https://earthrhythm-nasa.vercel.app/">Escucharlo ↗</a> &nbsp;·&nbsp; <a href="https://github.com/pierovelezzz/EarthRhythm">Ver código</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://lee-contigo-ia.vercel.app/"><img src="leecontigo.jpg" alt="LeeContigo IA: portada de la aplicación de cuentos, con opciones para leer, crear y acompañar." width="100%" /></a>
+<h3>LeeContigo IA</h3>
+<p><sub>EDUCACIÓN · IA · LECTURA</sub></p>
+<p>Un tutor de lectura para niños: cuentos, preguntas y pistas para acompañarlos a comprender lo que leen.</p>
+<p><strong>1.er lugar en futurX 2026</strong> con IngeFuturX.</p>
+<p><a href="https://lee-contigo-ia.vercel.app/">Leer un cuento ↗</a> &nbsp;·&nbsp; <a href="https://github.com/Alvaro-mendoza-12/Lee-Contigo-IA">Ver código</a></p>
+</td>
+</tr>
+</table>
 
-| Proyecto | Qué propone | Enlaces |
-| :--- | :--- | :--- |
-| **EarthRhythm** | Proyecto en equipo para NASA Space Apps Challenge 2026. Convierte mapas de NASA del Pacífico en música, con una experiencia bilingüe y opciones de accesibilidad. | [Aplicación](https://earthrhythm-nasa.vercel.app/) · [Código](https://github.com/pierovelezzz/EarthRhythm) |
-| **LeeContigo IA** | Proyecto en equipo que explora el apoyo a la lectura mediante relatos adaptados, preguntas y un tutor con IA. | [Aplicación](https://lee-contigo-ia.vercel.app/) · [Código del equipo](https://github.com/Alvaro-mendoza-12/Lee-Contigo-IA) |
-| **Valor Artesano** | Prototipo web orientado a artesanas y emprendedores: cálculo de precios, textos sugeridos mediante reglas y generación de PDF. | [Aplicación](https://valor-artesano.vercel.app/) |
+<details>
+<summary><strong>También: Valor Artesano — ponerle valor al trabajo hecho a mano</strong></summary>
+<br />
+<a href="https://valor-artesano.vercel.app/"><img src="valor-artesano.jpg" alt="Valor Artesano: formulario para describir una artesanía y estimar su valor." width="100%" /></a>
 
-## En qué estoy creciendo
+Un prototipo para describir una pieza, calcular costos y preparar una ficha en PDF. Las sugerencias de texto y precio funcionan con reglas en el navegador.
 
-- **Desarrollo backend:** APIs REST, bases de datos relacionales, autenticación y pruebas.
-- **Herramientas y fundamentos:** Java, Python, SQL, Git y GitHub.
-- **Diseño de soluciones:** análisis de requisitos, UML y prototipado.
-- **IA aplicada:** integración de modelos como apoyo a experiencias educativas y productos digitales.
+[Probar Valor Artesano ↗](https://valor-artesano.vercel.app/)
 
-Actualmente estoy reforzando **Spring, PostgreSQL y seguridad de APIs**, con el objetivo de llevar mi formación a proyectos que pueda construir, probar y explicar.
+</details>
 
-## Qué me interesa construir
+## Un par de hitos
 
-Soluciones para educación, accesibilidad y emprendimiento, especialmente cuando responden a necesidades de mi entorno en el Perú. Me interesa aprender de usuarios reales, colaborar con personas de distintas disciplinas y mejorar los proyectos a partir de sus resultados.
+- **Primer lugar en la Hackathon futurX 2026**, con el equipo IngeFuturX y LeeContigo IA. [La historia en la USAT ↗](https://www.usat.edu.pe/noticias/estudiantes-de-ingenieria-de-sistemas-y-computacion-usat-obtienen-el-primer-lugar-en-la-hackathon-futurx-2026/)
+- **Primer puesto de mi carrera en 2025-II**, reconocido por la USAT. [Reconocimiento académico ↗](https://www.usat.edu.pe/noticias/usat-reconoce-a-los-primeros-puestos-de-sus-18-escuelas-profesionales/)
 
----
+## Ahora mismo
 
-**English**
+**Mis bases:** `Java` · `Python` · `SQL` · `Git`  
+**Lo que estoy reforzando:** Spring, PostgreSQL, autenticación y pruebas de APIs.  
+**Lo que quiero seguir explorando:** educación, accesibilidad e investigación aplicada.
 
-I am a Systems and Computing Engineering student at USAT in Peru, focused on learning backend development with Java, Python and SQL. My team projects explore education, accessibility and NASA data sonification. I am interested in internships and collaborative projects with practical impact.
+Me interesa colaborar en proyectos donde pueda aprender y aportar. Si estás construyendo algo por esa línea, [hablemos](https://www.linkedin.com/in/piero-v%C3%A9lez-su%C3%A1rez-36a2a6291/).
 
-[Let us connect on LinkedIn](https://www.linkedin.com/in/piero-v%C3%A9lez-su%C3%A1rez-36a2a6291/).
+<details>
+<summary>English — a little about me</summary>
+
+I'm Piero, a Systems and Computing Engineering student at USAT in Chiclayo, Peru. I'm learning backend development with Java, Python and SQL, and I enjoy building projects around education, accessibility and data.
+
+I was part of IngeFuturX, the team behind LeeContigo IA and first-place winner of futurX 2026. I also work on EarthRhythm, a NASA Space Apps 2026 project that turns ocean maps into music.
+
+I'm interested in internships and collaborative projects. [Let's connect on LinkedIn ↗](https://www.linkedin.com/in/piero-v%C3%A9lez-su%C3%A1rez-36a2a6291/).
+
+</details>
